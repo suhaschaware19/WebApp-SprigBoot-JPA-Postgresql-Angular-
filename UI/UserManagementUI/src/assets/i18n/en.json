@@ -1,0 +1,24 @@
+{
+  "usermanagement": {
+    "title": "User Management",
+    "profile": {
+      "title": "User Profile",
+      "id": "USER ID",
+      "name": "USER NAME",
+      "address": "ADDRESS",
+      "country": "COUNTRY",
+      "email": "EMAIL ID",
+      "id.validation": "User Id is required.",
+      "name.validation": "User Name is required.",
+      "address.validation": "User Address is required.",
+      "country.validation": "User Country is required.",
+      "email.validation": "Please enter valid email id",
+      "save": "Save",
+      "add": "ADD",
+      "edit": "EDIT",
+      "delete": "DELETE",
+      "close": "Close"
+    },
+    "userlist": "User List"
+  }
+}
